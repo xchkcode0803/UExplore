@@ -25,8 +25,19 @@ To avoid visual clutter, more detailed information will only be displayed once z
 - Street: major streets will be displayed at a moderate zoom level, whereas street names and minor streets will only be displayed at a close zoom level 
 - Buildings 
 
+
+https://github.com/xchkcode0803/UExplore/assets/109048196/394ea708-29ed-4076-9594-79244cd908ea
+
+
+
+
 ### Places of Interest search bar 
 As shown below, there's a search bar with autocomplete that allows user to look for specific places of interest. All places with a matching name will be highlighted on the map once a place name is entered. 
+
+
+https://github.com/xchkcode0803/UExplore/assets/109048196/c4046182-d2c1-497c-8611-3aec014d86e1
+
+
 
 ### Transportation networks 
 User can choose to display a specific transportation network on the map by selecting one of the options from the drop down menu. For subway and bus networks, the station names will only be displayed once zoomed in to avoid visual clutters. 
