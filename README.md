@@ -42,6 +42,11 @@ https://github.com/xchkcode0803/UExplore/assets/109048196/c4046182-d2c1-497c-861
 ### Transportation networks 
 User can choose to display a specific transportation network on the map by selecting one of the options from the drop down menu. For subway and bus networks, the station names will only be displayed once zoomed in to avoid visual clutters. 
 
+
+
+https://github.com/xchkcode0803/UExplore/assets/109048196/3f613151-3110-4986-95d6-04931fe06422
+
+
 ### Short-cut display buttons 
 On the top of the home window, user can click on any of the four buttons to display types of places on the map. User can click on "Clear POI" to clear out the places being displayed on the map. The place's name will be displayed on a pop up window once clicking on the icon. 
 
