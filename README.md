@@ -47,8 +47,21 @@ User can choose to display a specific transportation network on the map by selec
 https://github.com/xchkcode0803/UExplore/assets/109048196/3f613151-3110-4986-95d6-04931fe06422
 
 
+
+https://github.com/xchkcode0803/UExplore/assets/109048196/ce931783-4caa-4a47-b29d-8c22a9cee1e3
+
+
+https://github.com/xchkcode0803/UExplore/assets/109048196/d30cb81c-b0ca-4a2d-b86a-29f840401f0c
+
+
+
+
 ### Short-cut display buttons 
 On the top of the home window, user can click on any of the four buttons to display types of places on the map. User can click on "Clear POI" to clear out the places being displayed on the map. The place's name will be displayed on a pop up window once clicking on the icon. 
+
+
+https://github.com/xchkcode0803/UExplore/assets/109048196/3f22af82-4cf4-4888-ad04-4533be1730f1
+
 
 ### Path-finding
 UExplore can find the fastest driving path between any two intersections on the map considering the speed limit of each street segment and a 15 seconds penalty spent on each turn of the streets. User can perform the path-finding by following these steps: 
