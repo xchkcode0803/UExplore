@@ -73,7 +73,12 @@ https://github.com/xchkcode0803/UExplore/assets/109048196/f7d0f316-53bc-48bb-ae5
 
 
 3. Enter two intersections by entering the corresponding street names (two street names for one intersection) or by clicking on any two intersections on a map (This auto fills the intersection entry boxes)
+
 4. Click on "Search directions". A path will be displayed along with a detailed driving instruction. Arrows showing the driving direction will be displayed once zoomed in. User can also follow along the path by clicking on "next", which will take the user through each of the turning point along the path. 
+
+
+https://github.com/xchkcode0803/UExplore/assets/109048196/175035ae-b13b-4fc1-ac67-df0a325d4282
+
 
 
 
