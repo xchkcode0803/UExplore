@@ -12,6 +12,19 @@ This software provides the following functionalities:
 - Short-cut buttons highlighting common types of places 
 - Path-finding and driving instruction between two intersections
 
+### Display of geographical features 
+The following information of a city is displayed on the map without any user manipulation: 
+- highways (yellow)
+- Water bodies including lakes, streams, ocean, river (blue)
+- Green Spaces (green)
+- Parks (green)
+- Island (green)
+- Golf course (green)
+
+To avoid visual clutter, more detailed information will only be displayed once zoom in. These include: 
+- Street: major streets will be displayed at a moderate zoom level, whereas street names and minor streets will only be displayed at a close zoom level 
+- Buildings 
+
 ### Places of Interest search bar 
 As shown below, there's a search bar with autocomplete that allows user to look for specific places of interest. All places with a matching name will be highlighted on the map once a place name is entered. 
 
@@ -26,7 +39,9 @@ UExplore can find the fastest driving path between any two intersections on the 
 
 1. Click on "Direction" located on the bottom left of the home page. This will take the user to a seperate interface 
 2. Enter two intersections by entering the corresponding street names (two street names for one intersection) or by clicking on any two intersections on a map (This auto fills the intersection entry boxes)
-3. Click on "Search directions". A path will be displayed along with a detailed driving instruction. Arrows showing the driving direction will be displayed once zoomed in. 
+3. Click on "Search directions". A path will be displayed along with a detailed driving instruction. Arrows showing the driving direction will be displayed once zoomed in. User can also follow along the path by clicking on "next", which will take the user through each of the turning point along the path. 
+
+
 
 
 
