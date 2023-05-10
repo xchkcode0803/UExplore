@@ -66,9 +66,14 @@ https://github.com/xchkcode0803/UExplore/assets/109048196/3f22af82-4cf4-4888-ad0
 ### Path-finding
 UExplore can find the fastest driving path between any two intersections on the map considering the speed limit of each street segment and a 15 seconds penalty spent on each turn of the streets. User can perform the path-finding by following these steps: 
 
-1. Click on "Direction" located on the bottom left of the home page. This will take the user to a seperate interface 
-2. Enter two intersections by entering the corresponding street names (two street names for one intersection) or by clicking on any two intersections on a map (This auto fills the intersection entry boxes)
-3. Click on "Search directions". A path will be displayed along with a detailed driving instruction. Arrows showing the driving direction will be displayed once zoomed in. User can also follow along the path by clicking on "next", which will take the user through each of the turning point along the path. 
+1. Click on "Direction" located on the bottom left of the home page. This will take the user to a seperate interface
+
+
+https://github.com/xchkcode0803/UExplore/assets/109048196/f7d0f316-53bc-48bb-ae5f-73e74204ddd6
+
+
+3. Enter two intersections by entering the corresponding street names (two street names for one intersection) or by clicking on any two intersections on a map (This auto fills the intersection entry boxes)
+4. Click on "Search directions". A path will be displayed along with a detailed driving instruction. Arrows showing the driving direction will be displayed once zoomed in. User can also follow along the path by clicking on "next", which will take the user through each of the turning point along the path. 
 
 
 
